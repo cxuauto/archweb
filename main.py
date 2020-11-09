@@ -16,7 +16,7 @@ elem.send_keys(os.environ.get('EMAIL_ADD'),
                Keys.TAB,
                os.environ.get('PASSD'),
                Keys.RETURN)
-
+print("login")
 time.sleep(6)
 
 url_list = [
@@ -42,7 +42,7 @@ def wait_check():
         min = 0
         step = 1
         Flag = False
-        while min<4:
+        while min<3:
             time.sleep(step * 60)
             status = check()
             print(f"{status} at {min}")
@@ -63,6 +63,7 @@ for url_save in url_list:
     elem = wd.find_element_by_id("capture_outlinks")
     elem.click()
     elem.submit()
+    print("Saving: ", url_save)
     
     successful = wait_check()
     if not successful:
