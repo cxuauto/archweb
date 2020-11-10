@@ -34,7 +34,10 @@ url_list = [
 failed_list = []
 
 def check():
-    track_id = re.findall('watchJob\("(.*?)"', wd.page_source)[0]
+    try:
+        track_id = re.findall('watchJob\("(.*?)"', wd.page_source)[0]
+    except:
+        return 'No Result'
     resp = requests.get(f"https://web.archive.org/save/status/{track_id}?_t=" + str(int(time.time()*100)) ).json()
     return resp['status']
 
