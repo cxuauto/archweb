@@ -36,9 +36,9 @@ failed_list = []
 def check():
     try:
         track_id = re.findall('watchJob\("(.*?)"', wd.page_source)[0]
+        resp = requests.get(f"https://web.archive.org/save/status/{track_id}?_t=" + str(int(time.time()*100)) ).json()
     except:
-        return 'No Result'
-    resp = requests.get(f"https://web.archive.org/save/status/{track_id}?_t=" + str(int(time.time()*100)) ).json()
+        return 'No Result'    
     return resp['status']
 
 def wait_check():
