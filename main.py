@@ -29,11 +29,12 @@ url_list = [
             "https://shimo.im/docs/tjRWrtPYp8JTrpHY/read",
             "https://acacess.substack.com/archive?sort=new",
             "https://swarma.org/",
+            "https://www.alignmentforum.org/",
             "http://headsalon.org/catalog",
             "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
-  
+            "https://sniggle.net/TPL/index5.php?entry=annotated",
 ]
 
 failed_list = []
