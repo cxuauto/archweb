@@ -35,6 +35,8 @@ url_list = [
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             "https://sniggle.net/TPL/index5.php?entry=annotated",
+            "https://sinceriously.fyi/",
+            "https://deconstructingyourself.com/all-articles",
 ]
 
 failed_list = []
