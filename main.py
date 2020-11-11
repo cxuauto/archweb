@@ -29,6 +29,8 @@ url_list = [
             "https://acacess.substack.com/archive?sort=new",
             "https://swarma.org/",
             "http://headsalon.org/catalog",
+            "https://www.foretold.io/c/home/activity",
+            "https://www.overcomingbias.com/",
 ]
 
 failed_list = []
