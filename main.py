@@ -31,11 +31,11 @@ url_list = [
             "https://swarma.org/",
             "https://www.alignmentforum.org/",
             "http://headsalon.org/catalog",
-            "https://www.foretold.io/c/home/activity",
+            # "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             "https://sniggle.net/TPL/index5.php?entry=annotated",
-            "https://sinceriously.fyi/",
+            # "https://sinceriously.fyi/",
             "https://deconstructingyourself.com/all-articles",
 ]
 
