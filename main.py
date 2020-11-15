@@ -34,9 +34,10 @@ url_list = [
             # "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
-            "https://sniggle.net/TPL/index5.php?entry=annotated",
+            # "https://sniggle.net/TPL/index5.php?entry=annotated",
             # "https://sinceriously.fyi/",
-            "https://deconstructingyourself.com/all-articles",
+            # "https://deconstructingyourself.com/all-articles",
+            "https://www.greaterwrong.com/?sort=new",
 ]
 
 failed_list = []
