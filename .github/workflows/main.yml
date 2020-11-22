@@ -24,7 +24,7 @@ jobs:
     - uses: actions/setup-python@v2
     
     - name: apt installs
-      run: sudo apt-get install chromium-chromedriver
+      run: sudo apt update && sudo apt install chromium-chromedriver -y
     
     - name: Setup & Check enviroment
       run: |
