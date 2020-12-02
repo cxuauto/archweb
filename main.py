@@ -20,7 +20,7 @@ print("login")
 time.sleep(6)
 
 url_list = [
-            "https://www.overcomingbias.com/archives", #temp
+            # ://www.overcomingbias.com/archives", #temp
             "https://www.greaterwrong.com/?sort=hot",
             "https://pattern.swarma.org/?page=time",
             "https://forum.obsidian.md/c/knowledge-management/6",
@@ -35,9 +35,10 @@ url_list = [
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
-            # "https://sinceriously.fyi/",
+            # "https://sinceriously.fyi/","
             # "https://deconstructingyourself.com/all-articles",
             "https://www.greaterwrong.com/?sort=new",
+            "http://openmindclub.blog.caixin.com/",
 ]
 
 failed_list = []
