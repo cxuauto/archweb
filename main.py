@@ -6,7 +6,7 @@ options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 CHROMEPATH = which("chromium-browser")
-options.binary(CHROMEPATH);
+options.binary_location(CHROMEPATH);
 wd = webdriver.Chrome(options=options)
 wd.implicitly_wait(10)
 
