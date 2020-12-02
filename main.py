@@ -1,10 +1,12 @@
+from shutil import which
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
-options.setBinary("/usr/bin/chromium-browser");
+CHROMEPATH = which("chromium-browser")
+options.binary(CHROMEPATH);
 wd = webdriver.Chrome(options=options)
 wd.implicitly_wait(10)
 
