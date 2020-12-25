@@ -42,6 +42,7 @@ url_list = [
             # "https://deconstructingyourself.com/all-articles",
             "https://www.greaterwrong.com/?sort=new",
             "http://openmindclub.blog.caixin.com/",
+            "https://theangelphilosopher.com/",
 ]
 
 failed_list = []
