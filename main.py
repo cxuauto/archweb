@@ -43,6 +43,7 @@ url_list = [
             "https://www.greaterwrong.com/?sort=new",
             "http://openmindclub.blog.caixin.com/",
             "https://theangelphilosopher.com/",
+            "https://alistapart.com/articles/",
 ]
 
 failed_list = []
