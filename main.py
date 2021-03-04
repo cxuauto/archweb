@@ -44,6 +44,7 @@ url_list = [
             "http://openmindclub.blog.caixin.com/",
             "https://theangelphilosopher.com/",
             "https://alistapart.com/articles/",
+            "https://zhaoolee.com/garss/"
 ]
 
 failed_list = []
