@@ -52,6 +52,7 @@ url_list = [
             "https://forum.effectivealtruism.org/",
             "https://www.lesswrong.com/",
             "https://www.alignmentforum.org/",
+            "https://revisesociology.com/",
 ]
 
 failed_list = []
