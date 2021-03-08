@@ -49,6 +49,9 @@ url_list = [
             "https://daimajia.com/following",
             "https://maoruimas.github.io/zxcs/",
             "http://headsalon.org/catalog",
+            "https://forum.effectivealtruism.org/",
+            "https://www.lesswrong.com/",
+            "https://www.alignmentforum.org/",
 ]
 
 failed_list = []
