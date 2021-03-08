@@ -33,7 +33,7 @@ url_list = [
             "https://acacess.substack.com/archive?sort=new",
             "https://swarma.org/",
             "https://www.alignmentforum.org/",
-            "http://headsalon.org/catalog",
+            "http://headsalon.org/feed", # 
             # "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
@@ -46,7 +46,8 @@ url_list = [
             "https://alistapart.com/articles/",
             "https://zhaoolee.com/garss/",
             "https://daimajia.com/following",
-            "https://maoruimas.github.io/zxcs/"
+            "https://maoruimas.github.io/zxcs/",
+            "http://headsalon.org/catalog",
 ]
 
 failed_list = []
