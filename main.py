@@ -30,7 +30,8 @@ url_list = [
             "https://rizime.substack.com/archive?sort=new",
             "https://www.lesswrong.com/allPosts",
             # "https://shimo.im/docs/tjRWrtPYp8JTrpHY/read", no longer publicly accessible
-            "https://acacess.substack.com/archive?sort=new",
+            # "https://acacess.substack.com/archive?sort=new",
+            "https://letters.acacess.com/",
             "https://swarma.org/",
             "https://www.alignmentforum.org/",
             "http://headsalon.org/feed", # 
@@ -51,8 +52,10 @@ url_list = [
             "http://headsalon.org/catalog",
             "https://forum.effectivealtruism.org/",
             "https://www.lesswrong.com/",
+            "https://diff.blog/",
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
+            
 ]
 
 failed_list = []
