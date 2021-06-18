@@ -55,7 +55,7 @@ url_list = [
             "https://diff.blog/",
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
-            
+            "https://www.metafilter.com",
 ]
 
 failed_list = []
