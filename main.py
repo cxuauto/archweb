@@ -43,6 +43,7 @@ url_list = [
             # "https://sinceriously.fyi/","
             # "https://deconstructingyourself.com/all-articles",
             "https://www.greaterwrong.com/?sort=new",
+            "https://astralcodexten.substack.com/archive?sort=new",
             "http://openmindclub.blog.caixin.com/",
             "https://theangelphilosopher.com/",
             "https://alistapart.com/articles/",
