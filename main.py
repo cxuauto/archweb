@@ -29,7 +29,7 @@ url_list = [
             "https://forum.obsidian.md/c/knowledge-management/6",
             "https://rizime.substack.com/archive?sort=new",
             "https://www.lesswrong.com/allPosts",
-            # "https://shimo.im/docs/tjRWrtPYp8JTrpHY/read", no longer publicly accessible
+            "https://shimo.im/docs/tjRWrtPYp8JTrpHY/read", # no longer publicly accessible # resumed
             # "https://acacess.substack.com/archive?sort=new",
             "https://letters.acacess.com/page/2/",
             "https://swarma.org/",
