@@ -31,7 +31,7 @@ url_list = [
             "https://www.lesswrong.com/allPosts",
             # "https://shimo.im/docs/tjRWrtPYp8JTrpHY/read", no longer publicly accessible
             # "https://acacess.substack.com/archive?sort=new",
-            "https://letters.acacess.com/",
+            "https://letters.acacess.com/page/2/",
             "https://swarma.org/",
             "https://www.alignmentforum.org/",
             "http://headsalon.org/feed", # 
