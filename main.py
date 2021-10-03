@@ -42,6 +42,7 @@ url_list = [
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
             # "https://sinceriously.fyi/","
             # "https://deconstructingyourself.com/all-articles",
+            "https://slatestarscratchpad.tumblr.com/archive", 
             "https://conge.github.io/archive/",
             "https://www.greaterwrong.com/?sort=new",
             "https://astralcodexten.substack.com/archive?sort=new",
