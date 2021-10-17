@@ -1,6 +1,7 @@
 from shutil import which
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
@@ -13,7 +14,7 @@ wd.implicitly_wait(10)
 import time, re, os, requests
 
 wd.get("https://archive.org/account/login")
-elem = wd.find_element_by_css_selector(".login-form .input-email")
+elem = wd.find_element(By.CSS_SELECTOR, ".login-form .input-email")
 elem.clear()
 elem.send_keys(os.environ.get('EMAIL_ADD'),
                Keys.TAB,
@@ -92,8 +93,8 @@ def wait_check():
 for url_save in url_list:
     wd.get("https://web.archive.org/save") 
 
-    wd.find_element_by_id("web-save-url-input").send_keys(url_save)
-    elem = wd.find_element_by_id("capture_outlinks")
+    wd..find_element(By.ID, "web-save-url-input").send_keys(url_save)
+    elem = wd.find_element(By.ID,"capture_outlinks")
     elem.click()
     elem.submit()
     print("Saving: ", url_save)
