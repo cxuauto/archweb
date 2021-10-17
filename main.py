@@ -93,7 +93,7 @@ def wait_check():
 for url_save in url_list:
     wd.get("https://web.archive.org/save") 
 
-    wd..find_element(By.ID, "web-save-url-input").send_keys(url_save)
+    wd.find_element(By.ID, "web-save-url-input").send_keys(url_save)
     elem = wd.find_element(By.ID,"capture_outlinks")
     elem.click()
     elem.submit()
