@@ -39,6 +39,7 @@ url_list = [
             # "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
+            "https://www.allnow.com/",
             "https://forum.effectivealtruism.org/allPosts",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
             # "https://sinceriously.fyi/","
