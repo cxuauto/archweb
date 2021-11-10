@@ -46,6 +46,7 @@ url_list = [
             # "https://deconstructingyourself.com/all-articles",
             "https://slatestarscratchpad.tumblr.com/archive", 
             "https://conge.github.io/archive/",
+            "https://reader.one/",            
             "https://www.greaterwrong.com/?sort=new",
             "https://astralcodexten.substack.com/archive?sort=new",
             "http://openmindclub.blog.caixin.com/",
