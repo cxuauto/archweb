@@ -25,8 +25,9 @@ jobs:
     
     - name: apt installs
       run: |
-          sudo apt-get autopurge snapd
-          sudo apt-get update && sudo apt install chromium-chromedriver=80.0.3987.163-0ubuntu1  chromium-browser=80.0.3987.163-0ubuntu1  -y
+          sudo snap info chromium
+          sudo snap install --channel=95/stable --classic
+          sudo apt-get update && sudo apt install chromium-chromedriver=1:85.0.4183.83-0ubuntu0.20.04.2  -y
     
     - name: Setup & Check enviroment
       run: |
