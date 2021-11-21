@@ -13,7 +13,7 @@ options.add_argument('--disable-dev-shm-usage')
 options.add_argument("--disable-extensions");
 options.add_argument("--dns-prefetch-disable");
 options.add_argument("--disable-gpu");
-options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+options.page_load_strategy(PageLoadStrategy.NORMAL);
 
 CHROMEPATH = which("chromium-browser")
 options.binary_location=CHROMEPATH
