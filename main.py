@@ -5,14 +5,14 @@ from selenium.webdriver.common.by import By
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
-options.addArguments("enable-automation");
-options.addArguments("start-maximized");
-options.addArguments("--disable-infobars")
-options.addArguments("--disable-browser-side-navigation");
+options.add_argument("enable-automation");
+options.add_argument("start-maximized");
+options.add_argument("--disable-infobars")
+options.add_argument("--disable-browser-side-navigation");
 options.add_argument('--disable-dev-shm-usage')
-options.addArguments("--disable-extensions");
-options.addArguments("--dns-prefetch-disable");
-options.addArguments("--disable-gpu");
+options.add_argument("--disable-extensions");
+options.add_argument("--dns-prefetch-disable");
+options.add_argument("--disable-gpu");
 options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 
 CHROMEPATH = which("chromium-browser")
