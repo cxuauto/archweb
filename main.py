@@ -50,6 +50,7 @@ url_list = [
             "https://intelligence.org/all-posts/",
             "https://www.allnow.com/",
             "https://forum.effectivealtruism.org/allPosts",
+            "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
             # "https://sinceriously.fyi/","
             # "https://deconstructingyourself.com/all-articles",
