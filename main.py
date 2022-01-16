@@ -49,6 +49,7 @@ url_list = [
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             # "https://www.allnow.com/",
+            "https://www.weixinso.com/home/index/profile/bid/3894463207.html",
             "https://forum.effectivealtruism.org/allPosts",
             "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
