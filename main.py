@@ -35,7 +35,7 @@ time.sleep(6)
 url_list = [
             # ://www.overcomingbias.com/archives", #temp
             "https://www.greaterwrong.com/?sort=hot",
-            "https://pattern.swarma.org/?type=path",
+            "https://pattern.swarma.org/?type=path&page=normal",
             "https://forum.obsidian.md/c/knowledge-management/6",
             "https://rizime.substack.com/archive?sort=new",
             "https://www.lesswrong.com/allPosts",
@@ -48,12 +48,12 @@ url_list = [
             # "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
-            "https://www.allnow.com/",
+            # "https://www.allnow.com/",
             "https://forum.effectivealtruism.org/allPosts",
             "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
-            # "https://sinceriously.fyi/","
-            # "https://deconstructingyourself.com/all-articles",
+            "https://sinceriously.fyi/"," #
+            "https://deconstructingyourself.com/all-articles", #
             "https://slatestarscratchpad.tumblr.com/archive", 
             "https://conge.github.io/archive/",
             "https://reader.one/",            
