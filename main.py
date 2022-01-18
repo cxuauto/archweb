@@ -53,7 +53,7 @@ url_list = [
             "https://forum.effectivealtruism.org/allPosts",
             "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
-            "https://sinceriously.fyi/"," #
+            "https://sinceriously.fyi/", #
             "https://deconstructingyourself.com/all-articles", #
             "https://slatestarscratchpad.tumblr.com/archive", 
             "https://conge.github.io/archive/",
