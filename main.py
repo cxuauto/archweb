@@ -60,7 +60,7 @@ url_list = [
             "https://reader.one/",            
             "https://www.greaterwrong.com/?sort=new",
             "https://astralcodexten.substack.com/archive?sort=new",
-            "http://openmindclub.blog.caixin.com/",
+            # "http://openmindclub.blog.caixin.com/", # No longer updated
             "https://theangelphilosopher.com/",
             "https://alistapart.com/articles/",
             "https://zhaoolee.com/garss/",
