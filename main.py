@@ -73,6 +73,7 @@ url_list = [
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
             "https://www.metafilter.com",
+            "https://from-ai-to-zombies.eu/files.html",
 ]
 
 failed_list = []
