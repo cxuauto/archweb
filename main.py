@@ -73,7 +73,9 @@ url_list = [
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
             "https://www.metafilter.com",
-            "https://from-ai-to-zombies.eu/files.html",
+            "https://from-ai-to-zombies.eu/files.html", #temp
+            "https://www.readthesequences.com/Contents",#temp
+            "https://liqi.io/posts/", #temp
 ]
 
 failed_list = []
