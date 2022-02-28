@@ -49,7 +49,7 @@ url_list = [
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             # "https://www.allnow.com/",
-            "https://www.weixinso.com/home/index/profile/bid/3894463207.html",
+            # "https://www.weixinso.com/home/index/profile/bid/3894463207.html", # no update
             "https://forum.effectivealtruism.org/allPosts",
             "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
@@ -73,9 +73,9 @@ url_list = [
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
             "https://www.metafilter.com",
-            "https://from-ai-to-zombies.eu/files.html", #temp
-            "https://www.readthesequences.com/Contents",#temp
-            "https://liqi.io/posts/", #temp
+            # "https://from-ai-to-zombies.eu/files.html", #temp
+            # "https://www.readthesequences.com/Contents",#temp
+            # "https://liqi.io/posts/", #temp
 ]
 
 failed_list = []
