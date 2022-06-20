@@ -35,7 +35,7 @@ time.sleep(6)
 url_list = [
             # ://www.overcomingbias.com/archives", #temp
             "https://www.greaterwrong.com/?sort=hot",
-            "https://pattern.swarma.org/?type=path&page=normal",
+            "https://pattern.swarma.org/learn_paths",
             "https://forum.obsidian.md/c/knowledge-management/6",
             "https://rizime.substack.com/archive?sort=new",
             "https://www.lesswrong.com/allPosts",
