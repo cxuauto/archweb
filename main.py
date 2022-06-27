@@ -43,16 +43,16 @@ url_list = [
             # "https://acacess.substack.com/archive?sort=new",
             "https://letters.acacess.com/page/2/",
             "https://swarma.org/",
-            "https://pattern.swarma.org/wechat_articles",
             "https://www.alignmentforum.org/",
             "http://headsalon.org/feed", # 
-            # "https://www.foretold.io/c/home/activity",
+            "https://www.foretold.io/c/home/activity",
             "https://www.overcomingbias.com/",
             "https://intelligence.org/all-posts/",
             # "https://www.allnow.com/",
             # "https://www.weixinso.com/home/index/profile/bid/3894463207.html", # no update
             "https://forum.effectivealtruism.org/allPosts",
             "https://bookdown.org/home/archive/",
+            "https://pattern.swarma.org/wechat_articles",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
             "https://sinceriously.fyi/", #
             "https://deconstructingyourself.com/all-articles", #
