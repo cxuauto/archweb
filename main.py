@@ -74,6 +74,7 @@ url_list = [
             "https://revisesociology.com/",
             "https://www.metafilter.com",
             "https://theanarchistlibrary.org/special/index",
+            "https://zoomquiet.substack.com/",
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
