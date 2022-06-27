@@ -43,6 +43,7 @@ url_list = [
             # "https://acacess.substack.com/archive?sort=new",
             "https://letters.acacess.com/page/2/",
             "https://swarma.org/",
+            "https://pattern.swarma.org/wechat_articles",
             "https://www.alignmentforum.org/",
             "http://headsalon.org/feed", # 
             # "https://www.foretold.io/c/home/activity",
@@ -73,6 +74,7 @@ url_list = [
             "https://www.alignmentforum.org/",
             "https://revisesociology.com/",
             "https://www.metafilter.com",
+            "https://pattern.swarma.org/articles",
             "https://theanarchistlibrary.org/special/index",
             "https://zoomquiet.substack.com/",
             # "https://from-ai-to-zombies.eu/files.html", #temp
