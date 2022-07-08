@@ -77,6 +77,7 @@ url_list = [
             "https://pattern.swarma.org/articles",
             "https://theanarchistlibrary.org/special/index",
             "https://zoomquiet.substack.com/",
+            "https://slimemoldtimemold.com/",
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
