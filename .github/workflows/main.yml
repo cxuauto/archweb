@@ -40,4 +40,6 @@ jobs:
       env:
         EMAIL_ADD: ${{ secrets.EMAIL_ADD }}
         PASSD: ${{ secrets.PASSD }}
+        MYACCESSKEY: ${{ secrets.MYACCESSKEY }}
+        MYSECRET: ${{ secrets.MYSECRET }}
       run: python use_api.py
