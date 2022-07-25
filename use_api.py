@@ -8,7 +8,7 @@ headers = {'Accept': 'application/json',
 api_url = 'https://web.archive.org/save'
 
 api_url = 'https://web.archive.org/save'
-
+job_query = []
 for i, url in enumerate(url_list):
     
     data = {
@@ -20,13 +20,23 @@ for i, url in enumerate(url_list):
 
     r = rq.post(api_url, headers=headers, data=data)
     if r.status_code != 200:
-        print(r.text[:256])
+        print(url, r.text[:256])
     else:
         job_id = r.json()['job_id']
-        try:
-            job_info = requests.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
-            print(url, job_info['status'])
-        except:
-            print(url, 'No Result')
+#         try:
+#             job_query += [(url, job_id)]
+# #             job_info = requests.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
+#             print(url, job_info['status'])
+#         except:
+#             print(url, 'No Result')
 
-    if i%8 == 0: time.sleep(3*60)
+    if i!=0 and i%8 == 0:
+        time.sleep(1*60)
+        for job_url, job_id in job_query:
+            try:
+                job_info = requests.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
+                print(job_url, job_info['status'])
+            except:
+                print(url, 'No Result')
+        job_query = []
+        time.sleep(5*60)
