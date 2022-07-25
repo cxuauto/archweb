@@ -22,7 +22,11 @@ for i, url in enumerate(url_list):
     if r.status_code != 200:
         print(url, r.text[:256])
     else:
-        job_id = r.json()['job_id']
+        try:
+            job_id = r.json()['job_id']
+        except:
+            print("Failed to get job_id", r.text[:256])
+            continue
 #         try:
 #             job_query += [(url, job_id)]
 # #             job_info = requests.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
