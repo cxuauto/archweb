@@ -39,9 +39,9 @@ for i, url in enumerate(url_list):
         time.sleep(3*60)
         for job_url, job_id in job_query:
             try:
-                job_info = requests.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
+                job_info = rq.get(f"https://web.archive.org/save/status/{job_id}?_t=" + str(int(time.time()*100)) ).json()
                 print(job_url, job_info['status'])
             except:
-                print(url, 'No Result')
+                print(job_url, 'No Result')
         job_query = []
         time.sleep(3*60)
