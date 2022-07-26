@@ -24,6 +24,7 @@ for i, url in enumerate(url_list):
     else:
         try:
             job_id = r.json()['job_id']
+            job_query += [(url, job_id)]
         except:
             print("Failed to get job_id", r.text[:256])
             continue
