@@ -47,6 +47,7 @@ url_list = [
             "https://slimemoldtimemold.com/",
             "https://onehu.xyz/categories",
             "https://deathisbadblog.com/",
+            "https://booka.openmindcloud.com/SUMMARY.html",
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
