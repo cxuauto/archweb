@@ -49,6 +49,8 @@ url_list = [
             "https://www.zhihuban.ml/2021/12/navigation.html",
             "https://deathisbadblog.com/",
             "https://booka.openmindcloud.com/SUMMARY.html",
+            "https://writingchinese.leeds.ac.uk/book-reviews/",
+            "https://writingchinese.leeds.ac.uk/book-club/",
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
