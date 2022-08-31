@@ -53,6 +53,7 @@ url_list = [
             "https://writingchinese.leeds.ac.uk/book-reviews/",
             "https://writingchinese.leeds.ac.uk/book-club/",
             "https://rssnewshub.com/",
+            "https://rssnewshub.com/feed/latest",
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
