@@ -57,4 +57,6 @@ url_list = [
             # "https://from-ai-to-zombies.eu/files.html", #temp
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
+            "https://www.cnfeat.com/archive/",
+            "http://newsletter.hardwaylab.com/",
 ]
