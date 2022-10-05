@@ -59,4 +59,9 @@ url_list = [
             # "https://liqi.io/posts/", #temp
             "https://www.cnfeat.com/archive/",
             "http://newsletter.hardwaylab.com/",
+            "https://jlcollinsnh.com/",
+            "https://www.madfientist.com/articles/",
+            "https://www.mrmoneymustache.com/",
+            "http://earlyretirementextreme.com/",
+            #"",
 ]
