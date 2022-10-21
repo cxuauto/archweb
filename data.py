@@ -63,5 +63,6 @@ url_list = [
             "https://www.madfientist.com/articles/",
             "https://www.mrmoneymustache.com/",
             "http://earlyretirementextreme.com/",
+            "https://hub.baai.ac.cn/",
             #"",
 ]
