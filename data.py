@@ -64,5 +64,11 @@ url_list = [
             "https://www.mrmoneymustache.com/",
             "http://earlyretirementextreme.com/",
             "https://hub.baai.ac.cn/",
+            "https://www.yuque.com/hardwaylab/book",
+            "https://www.yuque.com/hardwaylab/cardstyle",
+            "https://www.yuque.com/hardwaylab/qve8ct",
+            "https://www.yuque.com/hardwaylab/paulgraham", 
+            "https://www.yuque.com/hardwaylab/smn5fc", 
+            "https://www.yuque.com/hardwaylab/wgolop",
             #"",
 ]
