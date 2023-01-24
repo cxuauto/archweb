@@ -70,5 +70,6 @@ url_list = [
             "https://www.yuque.com/hardwaylab/paulgraham", 
             "https://www.yuque.com/hardwaylab/smn5fc", 
             "https://www.yuque.com/hardwaylab/wgolop",
+            "http://shaderstore.cn/archive/",
             #"",
 ]
