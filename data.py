@@ -72,4 +72,5 @@ url_list = [
             "https://www.yuque.com/hardwaylab/wgolop",
             "http://shaderstore.cn/archive/",
             "https://www.less-bug.com/archives/",
+            "https://shao.fun/blog/",
 ]
