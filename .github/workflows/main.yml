@@ -31,8 +31,8 @@ jobs:
       run: |
         pwd
         python --version
-        pip install -U requests
-        # pip install -U requests selenium
+        # pip install -U requests
+        pip install -U requests selenium
         # which chromium-browser
         
     # Runs a single command using the runners shell
