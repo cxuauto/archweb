@@ -42,4 +42,4 @@ jobs:
         PASSD: ${{ secrets.PASSD }}
         MYACCESSKEY: ${{ secrets.MYACCESSKEY }}
         MYSECRET: ${{ secrets.MYSECRET }}
-      run: python main.py
+      run: python use_api.py
