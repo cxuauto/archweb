@@ -25,7 +25,7 @@ jobs:
     
     - name: apt installs
       run: |
-          sudo apt-get update && sudo apt install chromium-chromedriver=1:85.0.4183.83-0ubuntu0.20.04.2  -y
+          sudo apt-get update && sudo apt install chromium-chromedriver  -y
     
     - name: Setup & Check enviroment
       run: |
