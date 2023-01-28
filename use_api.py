@@ -1,6 +1,7 @@
 import requests as rq
 import os, time
 from data import url_list
+import functools
 
 headers = {'Accept': 'application/json',
 "Authorization": f"LOW {os.environ.get('MYACCESSKEY')}:{os.environ.get('MYSECRET')}", 
