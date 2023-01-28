@@ -1,4 +1,5 @@
 import requests as rq
+import requests
 import os, time
 from data import url_list
 import functools
