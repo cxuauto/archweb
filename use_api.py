@@ -1,8 +1,11 @@
 import requests as rq
 import requests
-import os, time
+import os, time. sys
 from data import url_list
 import functools
+import logging
+
+logger = logging.getLogger(__name__)
 
 headers = {'Accept': 'application/json',
 "Authorization": f"LOW {os.environ.get('MYACCESSKEY')}:{os.environ.get('MYSECRET')}", 
