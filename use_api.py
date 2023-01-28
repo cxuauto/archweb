@@ -1,6 +1,6 @@
 import requests as rq
 import requests
-import os, time. sys
+import os, time, sys
 from data import url_list
 import functools
 import logging
