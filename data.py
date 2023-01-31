@@ -73,4 +73,5 @@ url_list = [
             "http://shaderstore.cn/archive/",
             "https://www.less-bug.com/archives/",
             "https://shao.fun/blog/",
+            "https://moyu.work/news",
 ]
