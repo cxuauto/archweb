@@ -74,4 +74,5 @@ url_list = [
             "https://www.less-bug.com/archives/",
             "https://shao.fun/blog/",
             "https://moyu.work/news",
+            "https://blog.misaka.rest/",
 ]
