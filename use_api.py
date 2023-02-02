@@ -88,7 +88,7 @@ for i, url in enumerate(url_list):
 #         except:
 #             print(url, 'No Result')
 
-    if i!=0 and i%8 == 0:
+    if i!=0 and i%8 == 0 or i == len(url_list)-1:
         time.sleep(12*60)
         for job_url, job_id in job_query:
             try:
