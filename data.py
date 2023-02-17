@@ -48,7 +48,7 @@ url_list = [
             "https://onehu.xyz/categories",
             "https://www.zhihuban.ml/2021/12/navigation.html",
             "https://deathisbadblog.com/",
-            "https://booka.openmindcloud.com/SUMMARY.html",
+#             "https://booka.openmindcloud.com/SUMMARY.html", # 404
 #             "https://www.leeds.ac.uk/rss/news",
             "https://writingchinese.leeds.ac.uk/book-reviews/",
             "https://writingchinese.leeds.ac.uk/book-club/",
