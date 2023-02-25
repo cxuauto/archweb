@@ -75,4 +75,5 @@ url_list = [
             "https://shao.fun/blog/",
             "https://moyu.work/news",
             "https://blog.misaka.rest/",
+            "https://xiaobot.netlify.app/",
 ]
