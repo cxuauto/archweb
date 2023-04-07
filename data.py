@@ -76,6 +76,6 @@ url_list = [
             "https://moyu.work/news",
             "https://blog.misaka.rest/",
             "https://xiaobot.netlify.app/",
-            "https://anotherdayu.com/",
+            "http://anotherdayu.com/?feed=rss",
             "https://sharegpt.com/",
 ]
