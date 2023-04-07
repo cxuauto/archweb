@@ -1,5 +1,5 @@
 url_list = [
-            # "https://www.overcomingbias.com/archives", #temp
+            "https://www.overcomingbias.com/archive", #temp
             "https://www.greaterwrong.com/?sort=hot",
             "https://www.greaterwrong.com/?sort=new",
             "https://www.lesswrong.com/allPosts",
