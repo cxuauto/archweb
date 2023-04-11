@@ -78,5 +78,6 @@ url_list = [
             "https://xiaobot.netlify.app/",
             "http://anotherdayu.com/?feed=rss",
             "https://sharegpt.com/",
+            "https://42share.io/",
             "https://einverne.github.io/archive.html",
 ]
