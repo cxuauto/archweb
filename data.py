@@ -81,4 +81,5 @@ url_list = [
             "https://42share.io/",
             "https://einverne.github.io/archive.html",
             "https://muspimerol.site/blog",
+            "https://www.ml-quant.com/",
 ]
