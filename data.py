@@ -80,4 +80,5 @@ url_list = [
             "https://sharegpt.com/",
             "https://42share.io/",
             "https://einverne.github.io/archive.html",
+            "https://muspimerol.site/blog",
 ]
