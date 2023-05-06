@@ -33,6 +33,7 @@ url_list = [
             "https://reader.one/",            
             "https://astralcodexten.substack.com/archive?sort=new",
             # "http://openmindclub.blog.caixin.com/", # No longer updated
+            "https://blog.openmindclub.com/",
             "https://theangelphilosopher.com/",
             "https://alistapart.com/articles/",
             "https://zhaoolee.com/garss/",
