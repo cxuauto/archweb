@@ -84,4 +84,5 @@ url_list = [
             "https://muspimerol.site/blog",
             "https://www.ml-quant.com/",
             "https://www.newsminimalist.com/",
+            "https://42share.io/api/recommend-list",
 ]
