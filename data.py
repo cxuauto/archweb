@@ -86,4 +86,5 @@ url_list = [
             "https://www.newsminimalist.com/",
             "https://42share.io/api/recommend-list",
             "https://chatlogs.net",
+            "https://weekly-psi.vercel.app/",
 ]
