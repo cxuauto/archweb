@@ -88,4 +88,5 @@ url_list = [
             "https://chatlogs.net",
             "https://weekly-psi.vercel.app/",
             "https://news.ycombinator.com/newest",
+            "https://www.generalist.com/briefings",
 ]
