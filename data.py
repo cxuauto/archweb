@@ -26,7 +26,7 @@ url_list = [
 
             "https://bookdown.org/home/archive/",
             # "https://sniggle.net/TPL/index5.php?entry=annotated",
-            "https://sinceriously.fyi/", #
+            # "https://sinceriously.fyi/", #DNS ERROR
             "https://deconstructingyourself.com/all-articles", #
             "https://slatestarscratchpad.tumblr.com/archive", 
             "https://conge.github.io/archive/",
@@ -81,7 +81,7 @@ url_list = [
             "https://sharegpt.com/",
             "https://42share.io/",
             "https://einverne.github.io/archive.html",
-            "https://muspimerol.site/blog",
+            "https://muspimerol.site/blog", # DNS error
             "https://www.ml-quant.com/",
             "https://www.newsminimalist.com/",
             "https://42share.io/api/recommend-list",
