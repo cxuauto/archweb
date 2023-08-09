@@ -59,7 +59,7 @@ url_list = [
             # "https://www.readthesequences.com/Contents",#temp
             # "https://liqi.io/posts/", #temp
             "https://www.cnfeat.com/archive/",
-            "http://newsletter.hardwaylab.com/",
+            # "http://newsletter.hardwaylab.com/", # DNS domain expiry
             "https://jlcollinsnh.com/",
             "https://www.madfientist.com/articles/",
             "https://www.mrmoneymustache.com/",
