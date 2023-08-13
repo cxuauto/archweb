@@ -47,7 +47,7 @@ url_list = [
             "https://zoomquiet.substack.com/",
             "https://slimemoldtimemold.com/",
             "https://onehu.xyz/categories",
-            "https://www.zhihuban.ml/2021/12/navigation.html",
+            # "https://www.zhihuban.ml/2021/12/navigation.html",
             "https://deathisbadblog.com/",
 #             "https://booka.openmindcloud.com/SUMMARY.html", # 404
 #             "https://www.leeds.ac.uk/rss/news",
