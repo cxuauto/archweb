@@ -36,7 +36,7 @@ url_list = [
             "https://blog.openmindclub.com/",
             "https://theangelphilosopher.com/",
             "https://alistapart.com/articles/",
-            "https://zhaoolee.com/garss/",
+            # "https://zhaoolee.com/garss/", # website shutdown
             "https://daimajia.com/following",
             "https://maoruimas.github.io/zxcs/",
             "http://headsalon.org/catalog",
