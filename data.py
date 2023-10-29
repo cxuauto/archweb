@@ -38,7 +38,7 @@ url_list = [
             "https://alistapart.com/articles/",
             # "https://zhaoolee.com/garss/", # website shutdown
             "https://daimajia.com/following",
-            "https://maoruimas.github.io/zxcs/",
+            # "https://maoruimas.github.io/zxcs/", # 404
             "http://headsalon.org/catalog",
             "https://diff.blog/",
             "https://revisesociology.com/",
