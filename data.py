@@ -89,4 +89,5 @@ url_list = [
             "https://weekly-psi.vercel.app/",
             "https://news.ycombinator.com/newest",
             "https://www.generalist.com/briefings",
+            "https://dataelixir.com/",
 ]
