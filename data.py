@@ -90,4 +90,5 @@ url_list = [
             "https://news.ycombinator.com/newest",
             "https://www.generalist.com/briefings",
             "https://dataelixir.com/",
+            "https://cfdata.lol/products/pages/",
 ]
