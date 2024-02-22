@@ -90,6 +90,7 @@ url_list = [
             "https://www.generalist.com/briefings",
             "https://dataelixir.com/",
             "https://cfdata.lol/products/pages/",
+            "https://chinagpt.shellten.top/",
 ]
 url_404 = [
             "https://chatlogs.net",
