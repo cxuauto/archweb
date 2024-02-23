@@ -91,6 +91,7 @@ url_list = [
             "https://dataelixir.com/",
             "https://cfdata.lol/products/pages/",
             "https://chinagpt.shellten.top/",
+            "https://im.qq.com/pcqq/index.shtml",
 ]
 url_404 = [
             "https://chatlogs.net",
