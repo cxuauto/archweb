@@ -74,9 +74,7 @@ url_list = [
 #             "http://shaderstore.cn/archive/",
             "https://www.less-bug.com/archives/",
             "https://shao.fun/blog/",
-            "https://moyu.work/news",
             "https://blog.misaka.rest/",
-            "https://xiaobot.netlify.app/",
             "http://anotherdayu.com/?feed=rss",
             "https://sharegpt.com/",
             "https://42share.io/",
@@ -95,4 +93,6 @@ url_list = [
 ]
 url_404 = [
             "https://chatlogs.net",
+            "https://xiaobot.netlify.app/",
+            "https://moyu.work/news",
 ]
