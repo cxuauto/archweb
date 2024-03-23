@@ -90,6 +90,8 @@ url_list = [
             "https://cfdata.lol/products/pages/",
             "https://chinagpt.shellten.top/",
             "https://im.qq.com/pcqq/index.shtml",
+            "https://baoyu.io/",
+            "https://www.the-tls.co.uk/archive/",
 ]
 url_404 = [
             "https://chatlogs.net",
