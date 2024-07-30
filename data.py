@@ -92,6 +92,7 @@ url_list = [
             "https://im.qq.com/pcqq/index.shtml",
             "https://baoyu.io/",
             "https://www.the-tls.co.uk/archive/",
+            "https://luxiangdong.com/tags/"
 ]
 url_404 = [
             "https://chatlogs.net",
