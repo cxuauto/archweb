@@ -93,7 +93,8 @@ url_list = [
             "https://baoyu.io/",
             "https://www.the-tls.co.uk/archive/",
             "https://luxiangdong.com/tags/",
-            "https://zh.mojotv.cn/404" 
+            "https://zh.mojotv.cn/404",
+            "https://practicaltypography.com/",
 ]
 url_404 = [
             "https://chatlogs.net",
