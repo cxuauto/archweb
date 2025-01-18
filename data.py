@@ -96,6 +96,7 @@ url_list = [
             "https://zh.mojotv.cn/404",
             "https://practicaltypography.com/",
             "https://1616516.xyz/", # Shaarli
+            "https://www.redditreads.com/subreddits",
 ]
 url_404 = [
             "https://chatlogs.net",
