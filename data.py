@@ -97,6 +97,8 @@ url_list = [
             "https://practicaltypography.com/",
             "https://1616516.xyz/", # Shaarli
             "https://www.redditreads.com/subreddits",
+            "https://www.supertechfans.com/cn/",
+            "https://supertechfans.com/cn/index.xml",
 ]
 url_404 = [
             "https://chatlogs.net",
