@@ -99,6 +99,8 @@ url_list = [
             "https://www.redditreads.com/subreddits",
             "https://www.supertechfans.com/cn/",
             "https://supertechfans.com/cn/index.xml",
+            "https://gmbaker.substack.com/archive",
+            "https://everypageispageone.com/",
 ]
 url_404 = [
             "https://chatlogs.net",
