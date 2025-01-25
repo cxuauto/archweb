@@ -101,6 +101,7 @@ url_list = [
             "https://supertechfans.com/cn/index.xml",
             "https://gmbaker.substack.com/archive",
             "https://everypageispageone.com/",
+            "https://www.codedump.info/index.xml",
 ]
 url_404 = [
             "https://chatlogs.net",
