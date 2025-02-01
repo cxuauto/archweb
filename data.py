@@ -102,6 +102,7 @@ url_list = [
             "https://gmbaker.substack.com/archive",
             "https://everypageispageone.com/",
             "https://www.codedump.info/index.xml",
+            "https://wangjunjian.com/",
 ]
 url_404 = [
             "https://chatlogs.net",
