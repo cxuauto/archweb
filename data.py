@@ -104,9 +104,11 @@ url_list = [
             "https://www.codedump.info/index.xml",
             "https://wangjunjian.com/",
             "https://www.floruit.show/", 
+            "https://metodolog.ru/triz-journal/",
 ]
 url_404 = [
             "https://chatlogs.net",
             "https://xiaobot.netlify.app/",
             "https://moyu.work/news",
 ]
+
